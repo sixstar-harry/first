@@ -1,1 +1,1 @@
-echo 'master a1';
+echo 'master and sixstar a1';
